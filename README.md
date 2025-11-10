@@ -1,1 +1,1 @@
-echo "# Main Branch Edit "
+echo "# My Git Practice Project"
