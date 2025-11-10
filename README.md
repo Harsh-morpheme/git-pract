@@ -1,1 +1,1 @@
-echo "# My Git Practice Project"
+echo "# Main branch update"
